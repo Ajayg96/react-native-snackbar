@@ -1,0 +1,34 @@
+{
+  "name": "react-native-snackbar",
+  "version": "1.0.0",
+  "description": "A simple and fully customizable cross-platform React Native component that implements a snackbar UI.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/Ajayg96/react-native-snackbar/issues"
+  },
+  "homepage": "https://github.com/Ajayg96/react-native-snackbar",
+  "keywords": [
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "react",
+    "react native",
+    "mobile",
+    "ios",
+    "android",
+    "ui",
+    "snackbar"
+  ],
+  "author": "Ajay",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ajayg96/react-native-snackbar"
+  },
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.57.0"
+  }
+}
