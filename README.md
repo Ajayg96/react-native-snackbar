@@ -31,7 +31,7 @@ A simple and fully customizable cross-platform React Native component that imple
 [npm][]:
 
 ```sh
-npm install react-native-snackbar
+npm install react-native-custom-snackbar
 ```
 
 ## Example
