@@ -1,4 +1,4 @@
-# React-Native-Growl
+# React-Native-Growl(React-Native-Snackbar)
 
 <div style="text-align: center">
   <img src="https://badgen.net/badge/node@LTS/>=8.11.1/green">
