@@ -8,7 +8,7 @@
   <img src="https://badgen.net/badge/release/v1.0/pink">
 </div>
 
-A simple and fully customizable cross-platform React Native component that implements a snackbar(growl) UI.
+A simple and fully customizable cross-platform React Native component that implements a growl(snackbar) UI.
 
 ## Getting Started
 
