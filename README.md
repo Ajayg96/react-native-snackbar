@@ -1,4 +1,4 @@
-# React-Native-Snackbar
+# React-Native-Growl
 
 <div style="text-align: center">
   <img src="https://badgen.net/badge/node@LTS/>=8.11.1/green">
@@ -39,7 +39,7 @@ npm install react-native-growl
 ```js
 import React from "react";
 import { View, Button } from "react-native";
-import Snackbar from "react-native-snackbar";
+import Snackbar from "react-native-growl";
 
 class SnackbarComponent extends Component {
   state = {
