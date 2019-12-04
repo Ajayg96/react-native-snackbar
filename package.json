@@ -1,5 +1,5 @@
 {
-  "name": "react-native-custom-snackbar",
+  "name": "react-native-growl",
   "version": "1.0.0",
   "description": "A simple and fully customizable cross-platform React Native component that implements a snackbar UI.",
   "main": "index.js",
