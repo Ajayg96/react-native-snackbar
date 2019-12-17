@@ -1,6 +1,6 @@
 {
   "name": "react-native-growl",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A simple and fully customizable cross-platform React Native component that implements a growl(snackbar) UI.",
   "main": "index.js",
   "scripts": {

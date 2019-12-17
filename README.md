@@ -14,7 +14,6 @@ A simple and fully customizable cross-platform React Native component that imple
 
 <p float="left">
   <img src="src/images/image3.png" width="300" height="500"/>
-  <img src="src/images/image2.png" width="300" height="500"/>
 </p>
 
 ## Getting Started
